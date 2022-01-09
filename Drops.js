@@ -1,4 +1,4 @@
-class Umbrella {
+class Drops {
     constructor(x,y){
         this.rain = Bodies.circle(x,xy,5,options)
     }
